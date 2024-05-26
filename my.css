@@ -112,31 +112,7 @@ h2 {
     margin-bottom: 0;
 }
 
-.btn-primaty {
-    margin-top: 25px;
-    padding: 7px 20px;
-    border-radius: 10px;
-    border: none;
-    background: linear-gradient(90deg, #FB8501 -0.07%, #FFB703 100%);
-}
-
-.btn-primaty:focus {
-    transform: scale(0.95);
-}
-
-.btn-primaty:hover {
-    box-shadow: 0 0 10px 0 #ffb003;
-}
-
-
-.starstar {
-    color: #FB8501;
-    font-size: 28px;
-    text-align: center;
-}
-
-
-/* .bt-add-icon, .bt-remove-icon {
+.bt-add-icon, .bt-remove-icon {
     margin: 25px 15px 10px 0px;
     padding: 7px 20px;
     border-radius: 10px;
@@ -148,7 +124,7 @@ h2 {
     margin-right: 7px;
     font-size: 28px;
     color: #FFA239; 
-} */
+}
 
 /* конец стилей для главного блока*/
 /*начало стилей для блока которого нет */
